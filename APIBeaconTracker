@@ -1,0 +1,23 @@
+
+---
+
+### **2. 30_APIBeaconTracker**  
+**Description:**  
+A scanner for monitoring multiple API endpoints and recording uptime and latency in real-time.
+
+#### **README.md**
+```markdown
+# APIBeaconTracker - Multi-Endpoint Health Monitor
+
+APIBeaconTracker watches a list of services and gives a clean overview of availability, latency, and failures.
+
+## Features
+- Live status logging  
+- Latency summary per endpoint  
+- Export to CSV or JSON  
+
+## Usage
+```bash
+git clone https://github.com/your-username/30_APIBeaconTracker.git
+cd 30_APIBeaconTracker
+python monitor.py
