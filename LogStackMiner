@@ -1,0 +1,23 @@
+
+---
+
+### **3. 30_LogStackMiner**  
+**Description:**  
+Analyzes logs for high-frequency lines, error clusters, and burst patterns.
+
+#### **README.md**
+```markdown
+# LogStackMiner - Repetition & Burst Log Analyzer
+
+LogStackMiner detects repeating entries and unusual message stacks, helping identify bugs, spam, or attacks.
+
+## Features
+- Frequency analysis  
+- Burst detection by timestamp  
+- Keyword-based filtering  
+
+## Usage
+```bash
+git clone https://github.com/your-username/30_LogStackMiner.git
+cd 30_LogStackMiner
+python analyze.py
