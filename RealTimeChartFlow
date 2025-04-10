@@ -1,0 +1,23 @@
+
+---
+
+### **4. 30_RealTimeChartFlow**  
+**Description:**  
+Plots incoming numeric data as a smooth, scrollable chart in real time.
+
+#### **README.md**
+```markdown
+# RealTimeChartFlow - Live Data Visualizer
+
+RealTimeChartFlow is a Python tool for plotting live data streams in a responsive, scrollable chart.
+
+## Features
+- Smooth chart updates  
+- Auto-scroll with history  
+- Matplotlib-powered  
+
+## Usage
+```bash
+git clone https://github.com/your-username/30_RealTimeChartFlow.git
+cd 30_RealTimeChartFlow
+python visualize.py
